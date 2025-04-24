@@ -64,6 +64,8 @@ A transfer function G(s) represents the relationship between the input and outpu
 - Bode Phase Plot: Shows phase shift across frequencies
 - Laplace Domain: Visualizes input, transfer function, and output in frequency domain
 
+![image](https://github.com/user-attachments/assets/0607b70e-6ffd-42b2-b673-3159ca045fea)
+
 ## How to Use
 
 1. **Installation**:
